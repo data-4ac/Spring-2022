@@ -10,5 +10,5 @@
 **Instructor:** Victoria E. Robinson
 
 **Developers:** Alma Pineda and William McEachen
-
+**Spring 2022 Updates:** Janet Torres
 Based on [content developed](https://github.com/ds-modules/ES-21AC-SP19) previously by Ashley Quiterio.
