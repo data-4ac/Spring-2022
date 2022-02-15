@@ -5,6 +5,7 @@
 **Data-4AC Adaptation:** Sandra Zavala, Karalyn Chong, Jason Jiang
 
 **Spring 2022 Updates:** Janet Torres
+
 ----
 
 **Developers:** Nick Merrill, Inderpal Kaur, Samuel Greenberg
