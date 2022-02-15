@@ -2,4 +2,4 @@
 
 **Developers:** Jason Jiang
 
-**Spring 2022 Updates:** Janet Torres
+**Spring 2022 Updates:** Janet Torres and Jacob Spertus
