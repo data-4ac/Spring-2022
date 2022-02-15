@@ -12,6 +12,8 @@
 
 **Developers:** Alleanna Clark, Aishah Mahmud, Monica Wilkinson
 
+**Spring 2022 Updates:** Janet Torres
+
 Data science module for UC Berkeley course COLWRIT-R4B.
 
 This module explores data relating to Japanese-American internment during World War II using changing population maps over time.
