@@ -1,4 +1,4 @@
-# Notebook 2: Prisons and Jails
+# Notebook 3: Prisons and Jails
 
 **This notebook was adapted from a Module originally deployed in [ES-21AC](https://github.com/ds-modules/ES-21AC-sp20)**
 
