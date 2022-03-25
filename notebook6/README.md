@@ -1,4 +1,4 @@
-# Notebook 5: Bias in Algorithmic Risk Scores for Health
+# Notebook 6: Bias in Algorithmic Risk Scores for Health
 
 **This notebook was adapted from the first in a series of labs from the [Daylight Lab](https://daylight.berkeley.edu/mlfailures/)**
 
